@@ -1,0 +1,14 @@
+.Topnav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    background-image: url("src/assets/Top-Banner.png");
+    margin: 18px 50px;
+    border: 2px solid #262626;
+    border-radius: 8px;
+}
+.Topnav img{
+    width: 20px;
+    height: 20px;
+}
