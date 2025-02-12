@@ -1,0 +1,129 @@
+.sectionnavigate{
+    margin-top: 200px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+  .explore{
+    font-family: Outfit;
+width: 147;
+height: 47;
+gap: 10px;
+padding-top: 10px;
+padding-right: 20px;
+padding-bottom: 10px;
+padding-left: 20px; 
+border-radius: 8px;
+border-width: 2px;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: center;
+border: 2px solid black;
+
+  }
+  .content h6{
+ width: 996;
+height: 75;
+font-family: Raleway;
+font-weight: 700;
+font-size: 58px;
+line-height: 75.4px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: -5px;
+
+  }
+  .your{
+width: 996px;
+height: 60px;
+font-family: Outfit;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: -70px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 600px;
+height: 500px;
+gap: 80px;
+border-radius: 12px;
+border-width: 2px;
+padding: 80px;
+border: 2px solid black;
+box-shadow: 6px 6px 0px 2px #1E1E1E;
+margin-top: 40px;
+
+}
+.upcard{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-direction: row;
+
+}
+.downcard{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.card h6{
+font-family: Raleway;
+font-weight: 700;
+font-size: 48px;
+line-height: 62.4px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.card img{
+    margin-top: -150px;
+}
+.card p{
+    width: 613px;
+height: 120px;
+font-family: Outfit;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: -20px;
+
+}
+.card button{
+    justify-content: center;
+    align-items: center;
+    width: 613px;
+height: 66px;
+gap: 10px;
+padding-top: 18px;
+padding-bottom: 18px;
+border-radius: 10px;
+border-width: 2px;
+background-color:  #FFDECC;
+box-shadow: 4px 4px 0px 2px #1E1E1E;
+
+
+}
+.icon{
+    margin-bottom: -5px;
+    margin-left: 5px;
+}
+.upcard button{
+    margin-top: -25px;
+}
