@@ -1,3 +1,4 @@
+import { Header } from "./component/header"
 import { Nav } from "./component/nav"
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
   return (
     <div>
       <Nav />
+      <Header />
     </div>
   )
 }

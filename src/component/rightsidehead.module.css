@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lexend:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sofia&display=swap');
+
+.rightsidehead{
+    width: 765px;
+height: 299px;
+justify-content: center;
+align-items: center;
+margin-top: -200px;
+
+
+}
+.rightsidehead p{
+    font-family: Outfit;
+font-weight: 500;
+font-size: 22px;
+line-height: 33px;
+letter-spacing: 0%;
+
+
+}
+.rightsidehead h6{
+    font-family: Raleway;
+font-weight: 800;
+font-size: 54px;
+line-height: 70.2px;
+letter-spacing: 0%;
+margin-top: -25px;
+
+}
+.rightsidehead .second{
+    margin-top: -80px;
+}
+.rightsidehead h6 span{
+    color:  #FF8D4D;
+}
+.buttom{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 765px;
+    height: 141px;
+    gap: 40px;
+    margin-top: 70px;
+    border: 2px solid #262626;
+    border-radius: 12px;
+    box-shadow: 8px 8px 0px 1px #FFBE99;
+    background-color: #FFEFE5;
+
+}
+.buttom span{
+    font-family: Outfit;
+font-weight: 800;
+font-size: 44px;
+line-height: 66px;
+letter-spacing: 0%;
+color: #262626;
+
+
+
+}
+.buttom p{
+    font-family: Outfit;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0%;
+margin-top: -10px;
+color: #262626;
+
+}
+.welcome{
+    border-bottom: 1px solid black;
+    width: 365px;
+height: 33px;
+
+
+}
