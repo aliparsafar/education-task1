@@ -1,14 +1,22 @@
 import { Header } from "./component/header"
+import { Main } from "./component/main"
 import { Nav } from "./component/nav"
 
 function App() {
 
 
   return (
-    <div>
+    <body>
+      <nav>
       <Nav />
       <Header />
-    </div>
+      </nav>
+      <main>
+        <Main />
+      </main>
+    </body>
+  
+
   )
 }
 
