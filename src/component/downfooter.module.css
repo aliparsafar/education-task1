@@ -1,0 +1,37 @@
+.downfooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.link {
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+    
+}
+.link a {
+    text-decoration: none;
+    color:  #333333;
+    font-family: Outfit;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: 0%;
+
+}
+/* .privacy{
+    border-left: 1px solid black;
+    height: 70px;
+
+} */
+.image1{
+    margin-right: 20px;
+}
+.image2{
+    margin-left: 20px;
+}
